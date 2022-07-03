@@ -1,0 +1,22 @@
+{
+  "name": "fs-organizer",
+  "version": "1.0.0",
+  "description": "It organizes all your files from a folder into different sections based on the file type",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurvag/File-System-Organizer.git"
+  },
+  "author": "Gaurav Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurvag/File-System-Organizer/issues"
+  },
+  "homepage": "https://github.com/gaurvag/File-System-Organizer#readme",
+  "bin":{
+    "fso":"main.js"
+  }
+}
